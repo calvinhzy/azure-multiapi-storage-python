@@ -17,6 +17,10 @@ Handles multi-API versions of Azure Storage Data Plane originally from https://g
 
 Change Log
 ----------
+1.6.0
+++++++
+* fileshare: Support v2025-07-05(12.22.0) and remove v2025-05-05
+
 1.5.0
 ++++++
 * packaging: Remove unused import, cleanup build pipeline
