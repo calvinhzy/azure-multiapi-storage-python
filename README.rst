@@ -18,7 +18,7 @@ Handles multi-API versions of Azure Storage Data Plane originally from https://g
 Change Log
 ----------
 1.7.0b1
-++++++
++++++++
 * Preview release to support user delegated sas with OAuth
 * blob:
     - Support v2026-02-06(12.28.0b1) and remove v2021-08-06, v2022-11-02
